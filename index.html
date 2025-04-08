@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<!-- This declares the document type and version of HTML being used -->
+<!-- Trigger rebuild: April 7, 2025 -->
+<html lang="en">
+<!-- The root element of the HTML document, with language set to English -->
+<head>
+    <!-- The head section contains meta information and resources for the page -->
+    <meta charset="UTF-8">
+    <!-- Specifies the character encoding for the document (UTF-8 supports all Unicode characters) -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Makes the page responsive by setting the viewport width to device width and initial zoom to 1.0 -->
+    <title>Paul Graham Essays - Audio</title>
+    <!-- The title that appears in the browser tab -->
+    <!-- Updated: April 7, 2025 -->
+    <style>
+        /* CSS Custom Properties (Variables) - Makes it easy to change colors throughout the site */
+        :root {
+            --primary-color: #2c3e50;    /* Main text color */
+            --secondary-color: #3498db;   /* Accent color for buttons */
+            --background-color: #f8f9fa;  /* Page background color */
+            --text-color: #333;          /* Regular text color */
+            --card-background: #ffffff;   /* Card background color */
+        }
+
+        /* Universal selector - Applies to all elements */
+        * {
+            margin: 0;                    /* Removes default margins */
+            padding: 0;                   /* Removes default padding */
+            box-sizing: border-box;       /* Makes padding and border included in element's width */
+        }
+
+        /* Styles for the body element */
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Container class for centering content and setting max width */
+        .container {
+            max-width: 1200px;           /* Maximum width of the content */
+            margin: 0 auto;              /* Centers the container horizontally */
+        }
+
+        /* Header section styles */
+        header {
+            text-align: center;          /* Centers text horizontally */
+            margin-bottom: 3rem;         /* Space below the header */
+            padding: 2rem 0;             /* Padding above and below header content */
+            border-bottom: 1px solid #eee; /* Light gray border at bottom */
+        }
+
+        /* Main heading style */
+        h1 {
+            color: var(--primary-color); /* Color using CSS variable */
+            margin-bottom: 1rem;         /* Space below the heading */
+        }
+
+        /* Subtitle text style */
+        .subtitle {
+            color: #666;                 /* Gray color for subtitle */
+            font-size: 1.2rem;           /* Slightly larger than normal text */
+        }
+
+        /* Grid container for essay cards */
+        .essays-grid {
+            display: grid;               /* Uses CSS Grid layout */
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            /* Creates responsive grid columns that automatically adjust based on screen size */
+            gap: 2rem;                   /* Space between grid items */
+        }
+
+        /* Individual essay card styles */
+        .essay-card {
+            background: var(--card-background); /* White background */
+            border-radius: 8px;          /* Rounded corners */
+            padding: 1.5rem;             /* Space inside the card */
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Subtle shadow effect */
+            transition: transform 0.2s ease; /* Smooth animation for hover effect */
+        }
+
+        /* Hover effect for essay cards */
+        .essay-card:hover {
+            transform: translateY(-5px);  /* Moves card up slightly on hover */
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15); /* Enhanced shadow on hover */
+        }
+
+        /* Essay title style */
+        .essay-title {
+            color: var(--primary-color); /* Color using CSS variable */
+            margin-bottom: 1rem;         /* Space below the title */
+            font-size: 1.25rem;          /* Larger font size for titles */
+        }
+
+        /* Essay date style */
+        .essay-date {
+            color: #666;                 /* Gray color for dates */
+            font-size: 0.9rem;           /* Slightly smaller than normal text */
+            margin-bottom: 1rem;         /* Space below the date */
+        }
+
+        /* Essay description style */
+        .essay-description {
+            margin-bottom: 1.5rem;       /* Space below the description */
+            color: #555;                 /* Dark gray color for description */
+            font-size: 0.95rem;          /* Slightly smaller than normal text */
+        }
+
+        /* Audio link button style */
+        .audio-link {
+            display: inline-block;       /* Allows setting width and height */
+            padding: 8px 16px;           /* Space inside the button */
+            background: #007bff;         /* Blue color for button */
+            color: white;                /* White text */
+            text-decoration: none;       /* Removes underline from link */
+            border-radius: 4px;          /* Rounded corners */
+        }
+
+        /* Audio player style */
+        .audio-player {
+            width: 100%;                 /* Full width */
+            margin-top: 1rem;            /* Space above the player */
+        }
+
+        /* Media query for responsive design on smaller screens */
+        @media (max-width: 768px) {
+            body {
+                padding: 1rem;           /* Less padding on mobile */
+            }
+
+            .essays-grid {
+                grid-template-columns: 1fr; /* Single column on mobile */
+            }
+        }
+
+        .essay {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>Paul Graham Essays</h1>
+    <div class="essay">
+        <h2>How to Start Google</h2>
+        <p>March 2024</p>
+        <a href="output/google.mp3" class="audio-link">Listen</a>
+    </div>
+    <div class="essay">
+        <h2>The Reddits</h2>
+        <p>March 2024</p>
+        <a href="output/reddits.mp3" class="audio-link">Listen</a>
+    </div>
+</body>
+</html> 
