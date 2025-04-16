@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Paul Graham Essays</title>
+        <link>https://victorlazarte.github.io/paulpod/</link>
+        <description>Audio versions of Paul Graham's essays</description>
+        <language>en-us</language>
+        <pubDate>Tue, 09 Apr 2024 12:00:00 GMT</pubDate>
+        <lastBuildDate>Tue, 09 Apr 2024 12:00:00 GMT</lastBuildDate>
+        <itunes:author>Paul Graham (read by ElevenLabs)</itunes:author>
+        <itunes:category text="Technology"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://victorlazarte.github.io/paulpod/cover.jpg"/>
+        <itunes:owner>
+            <itunes:name>Victor Lazarte</itunes:name>
+            <itunes:email>victor@lazarte.co</itunes:email>
+        </itunes:owner>
+        <itunes:type>episodic</itunes:type>
+
+        <item>
+            <title>What to Do</title>
+            <link>https://paulgraham.com/do.html</link>
+            <description>The importance of action and execution.</description>
+            <pubDate>Fri, 01 Mar 2025 00:00:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/do.mp3" type="audio/mpeg" length="8787"/>
+            <guid isPermaLink="false">paulgraham-do-20250301</guid>
+            <itunes:duration>8:47</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>The Origins of Wokeness</title>
+            <link>https://paulgraham.com/woke.html</link>
+            <description>An exploration of the concept of being 'woke'.</description>
+            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/woke.mp3" type="audio/mpeg" length="45000"/>
+            <guid isPermaLink="false">paulgraham-woke-20250101</guid>
+            <itunes:duration>36:01</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>When To Do What You Love</title>
+            <link>https://paulgraham.com/when.html</link>
+            <description>Understanding the importance of timing.</description>
+            <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/when.mp3" type="audio/mpeg" length="19000"/>
+            <guid isPermaLink="false">paulgraham-when-20240901</guid>
+            <itunes:duration>7:46</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Writes and Write-Nots</title>
+            <link>https://paulgraham.com/writes.html</link>
+            <description>The art and craft of writing.</description>
+            <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/writes.mp3" type="audio/mpeg" length="7000"/>
+            <guid isPermaLink="false">paulgraham-writes-20241001</guid>
+            <itunes:duration>3:01</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+    </channel>
+</rss> 
