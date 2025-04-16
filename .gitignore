@@ -17,12 +17,10 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Audio chunks
+# Audio chunks and intermediate files
 chunks/
-*.mp3
-*.wav
-*.ogg
+output/*_chunk_*.txt
+output/*_audio_*.mp3
 
-# Output files
-output/*.mp3
-output/*_chunk_*.txt 
+# Keep final audio files
+output/*.mp3 
