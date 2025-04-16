@@ -60,5 +60,93 @@
             <itunes:duration>3:01</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
+
+        <item>
+            <title>Founder Mode</title>
+            <link>https://paulgraham.com/founder-mode.html</link>
+            <description>The mindset and approach of successful founders.</description>
+            <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/founder mode.mp3" type="audio/mpeg" length="6000"/>
+            <guid isPermaLink="false">paulgraham-founder-mode-20240801</guid>
+            <itunes:duration>3:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>How to Start Google</title>
+            <link>https://paulgraham.com/google.html</link>
+            <description>Insights into starting a successful company.</description>
+            <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/how to start google.mp3" type="audio/mpeg" length="13000"/>
+            <guid isPermaLink="false">paulgraham-google-20240301</guid>
+            <itunes:duration>6:30</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>The Reddits</title>
+            <link>https://paulgraham.com/reddits.html</link>
+            <description>Observations about Reddit and online communities.</description>
+            <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/the reddits.mp3" type="audio/mpeg" length="5500"/>
+            <guid isPermaLink="false">paulgraham-reddits-20240201</guid>
+            <itunes:duration>2:45</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>The Best Essay</title>
+            <link>https://paulgraham.com/best-essay.html</link>
+            <description>What makes an essay truly great.</description>
+            <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/the best essay.mp3" type="audio/mpeg" length="21000"/>
+            <guid isPermaLink="false">paulgraham-best-essay-20240101</guid>
+            <itunes:duration>10:30</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>How to Do Great Work</title>
+            <link>https://paulgraham.com/great-work.html</link>
+            <description>Principles for achieving excellence in your work.</description>
+            <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/how to do great work.mp3" type="audio/mpeg" length="58000"/>
+            <guid isPermaLink="false">paulgraham-great-work-20231201</guid>
+            <itunes:duration>29:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Superlinear Returns</title>
+            <link>https://paulgraham.com/superlinear.html</link>
+            <description>Understanding non-linear growth and success.</description>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/superlinear returns.mp3" type="audio/mpeg" length="22000"/>
+            <guid isPermaLink="false">paulgraham-superlinear-20231101</guid>
+            <itunes:duration>11:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>How to Get New Ideas</title>
+            <link>https://paulgraham.com/new-ideas.html</link>
+            <description>Techniques for generating innovative ideas.</description>
+            <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/how to get new ideas.mp3" type="audio/mpeg" length="746"/>
+            <guid isPermaLink="false">paulgraham-new-ideas-20231001</guid>
+            <itunes:duration>0:37</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>What You (Want To)* Want</title>
+            <link>https://paulgraham.com/want.html</link>
+            <description>Understanding true desires and motivations.</description>
+            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/what you (want to)* want.mp3" type="audio/mpeg" length="2400"/>
+            <guid isPermaLink="false">paulgraham-want-20230901</guid>
+            <itunes:duration>1:12</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
     </channel>
 </rss> 
