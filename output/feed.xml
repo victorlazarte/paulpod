@@ -1,89 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Last updated: 2024-04-09 12:00:00 -->
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
    <channel>
-      <title>Paul Graham Essays</title>
+      <title>Paul Graham's Essays</title>
       <description>Audio versions of Paul Graham's essays</description>
       <link>https://paulgraham.com</link>
       <language>en-us</language>
       <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <lastBuildDate>Sat, 01 Mar 2025 00:00:00 GMT</lastBuildDate>
       <itunes:title>Paul Graham Essays</itunes:title>
       <itunes:author>Paul Graham</itunes:author>
       <itunes:summary>Audio versions of Paul Graham's essays</itunes:summary>
       <itunes:type>episodic</itunes:type>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:category text="Technology"/>
+      <itunes:category text="Business"/>
+      <itunes:category text="Education"/>
 
       <item>
-         <title>Do</title>
-         <description>March 2025
-What should one do? That may seem a strange question, but it's not
-meaningless or unanswerable. It's the sort of question kids ask
-before they learn not to ask big questions. I only came across it...</description>
+         <title>What to Do</title>
+         <link>https://paulgraham.com/do.html</link>
+         <description>What should one do? That may seem a strange question, but it's not meaningless or unanswerable. It's the sort of question kids ask before they learn not to ask big questions.</description>
          <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-         <itunes:title>Do</itunes:title>
+         <itunes:title>What to Do</itunes:title>
          <itunes:author>Paul Graham</itunes:author>
-         <itunes:summary>March 2025
-What should one do? That may seem a strange question, but it's not
-meaningless or unanswerable. It's the sort of question kids ask
-before they learn not to ask big questions. I only came across it...</itunes:summary>
+         <itunes:summary>What should one do? That may seem a strange question, but it's not meaningless or unanswerable. It's the sort of question kids ask before they learn not to ask big questions.</itunes:summary>
          <itunes:episodeType>full</itunes:episodeType>
          <itunes:explicit>no</itunes:explicit>
-         <enclosure url="https://raw.githubusercontent.com/victorlazarte/pgpod/main/output/do.mp3" type="audio/mpeg" length="0"/>
+         <enclosure url="https://raw.githubusercontent.com/victorlazarte/pgpod/main/output/do.mp3" type="audio/mpeg" length="7960000"/>
+         <guid>https://paulgraham.com/do.html</guid>
+         <itunes:duration>00:08:16</itunes:duration>
       </item>
 
       <item>
-         <title>Woke</title>
-         <description>January 2025
-The word "prig" isn't very common now, but if you look up
-the definition, it will sound familiar. Google's isn't bad:
-  A self-righteously moralistic person who behaves as if...</description>
+         <title>The Origins of Wokeness</title>
+         <link>https://paulgraham.com/woke.html</link>
+         <description>The word "prig" isn't very common now, but if you look up the definition, it will sound familiar. Google's isn't bad: A self-righteously moralistic person who behaves as if superior to others.</description>
          <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-         <itunes:title>Woke</itunes:title>
+         <itunes:title>The Origins of Wokeness</itunes:title>
          <itunes:author>Paul Graham</itunes:author>
-         <itunes:summary>January 2025
-The word "prig" isn't very common now, but if you look up
-the definition, it will sound familiar. Google's isn't bad:
-  A self-righteously moralistic person who behaves as if...</itunes:summary>
+         <itunes:summary>The word "prig" isn't very common now, but if you look up the definition, it will sound familiar. Google's isn't bad: A self-righteously moralistic person who behaves as if superior to others.</itunes:summary>
          <itunes:episodeType>full</itunes:episodeType>
          <itunes:explicit>no</itunes:explicit>
-         <enclosure url="https://raw.githubusercontent.com/victorlazarte/pgpod/main/output/woke.mp3" type="audio/mpeg" length="0"/>
+         <enclosure url="https://raw.githubusercontent.com/victorlazarte/pgpod/main/output/woke.mp3" type="audio/mpeg" length="33000000"/>
+         <guid>https://paulgraham.com/woke.html</guid>
+         <itunes:duration>00:34:20</itunes:duration>
       </item>
 
       <item>
-         <title>When</title>
-         <description>September 2024
-There's some debate about whether it's a good idea to "follow your
-passion." In fact the question is impossible to answer with a simple
-yes or no. Sometimes you should and sometimes you shouldn't, but...</description>
+         <title>When To Do What You Love</title>
+         <link>https://paulgraham.com/when.html</link>
+         <description>There's some debate about whether it's a good idea to "follow your passion." In fact the question is impossible to answer with a simple yes or no. Sometimes you should and sometimes you shouldn't, but when?</description>
          <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-         <itunes:title>When</itunes:title>
+         <itunes:title>When To Do What You Love</itunes:title>
          <itunes:author>Paul Graham</itunes:author>
-         <itunes:summary>September 2024
-There's some debate about whether it's a good idea to "follow your
-passion." In fact the question is impossible to answer with a simple
-yes or no. Sometimes you should and sometimes you shouldn't, but...</itunes:summary>
+         <itunes:summary>There's some debate about whether it's a good idea to "follow your passion." In fact the question is impossible to answer with a simple yes or no. Sometimes you should and sometimes you shouldn't, but when?</itunes:summary>
          <itunes:episodeType>full</itunes:episodeType>
          <itunes:explicit>no</itunes:explicit>
-         <enclosure url="https://raw.githubusercontent.com/victorlazarte/pgpod/main/output/when.mp3" type="audio/mpeg" length="0"/>
+         <enclosure url="https://raw.githubusercontent.com/victorlazarte/pgpod/main/output/when.mp3" type="audio/mpeg" length="7100000"/>
+         <guid>https://paulgraham.com/when.html</guid>
+         <itunes:duration>00:07:23</itunes:duration>
       </item>
 
       <item>
-         <title>Writes</title>
-         <description>October 2024
-I'm usually reluctant to make predictions about technology, but I
-feel fairly confident about this one: in a couple decades there
-won't be many people who can write...</description>
-         <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-         <itunes:title>Writes</itunes:title>
+         <title>Writes and Write-Nots</title>
+         <link>https://paulgraham.com/writes.html</link>
+         <description>I'm usually reluctant to make predictions about technology, but I feel fairly confident about this one: in a couple decades there won't be many people who can write.</description>
+         <pubDate>Wed, 01 Oct 2024 00:00:00 GMT</pubDate>
+         <itunes:title>Writes and Write-Nots</itunes:title>
          <itunes:author>Paul Graham</itunes:author>
-         <itunes:summary>October 2024
-I'm usually reluctant to make predictions about technology, but I
-feel fairly confident about this one: in a couple decades there
-won't be many people who can write...</itunes:summary>
+         <itunes:summary>I'm usually reluctant to make predictions about technology, but I feel fairly confident about this one: in a couple decades there won't be many people who can write.</itunes:summary>
          <itunes:episodeType>full</itunes:episodeType>
          <itunes:explicit>no</itunes:explicit>
-         <enclosure url="https://raw.githubusercontent.com/victorlazarte/pgpod/main/output/writes.mp3" type="audio/mpeg" length="0"/>
+         <enclosure url="https://raw.githubusercontent.com/victorlazarte/pgpod/main/output/writes.mp3" type="audio/mpeg" length="2800000"/>
+         <guid>https://paulgraham.com/writes.html</guid>
+         <itunes:duration>00:02:55</itunes:duration>
       </item>
 
       <item>

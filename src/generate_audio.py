@@ -169,11 +169,11 @@ def process_essay(essay_url, essay_title):
         return False
 
 if __name__ == "__main__":
-    # Process the next 3 essays after "Do"
+    # Process the next 3 essays
     essays_to_process = [
-        {"title": "Woke", "url": "https://paulgraham.com/woke.html"},
-        {"title": "When", "url": "https://paulgraham.com/when.html"},
-        {"title": "Writes", "url": "https://paulgraham.com/writes.html"}
+        {"title": "Founder Mode", "url": "https://paulgraham.com/foundermode.html"},
+        {"title": "The Right Kind of Stubborn", "url": "https://paulgraham.com/stubborn.html"},
+        {"title": "The Reddits", "url": "https://paulgraham.com/reddits.html"}
     ]
     
     for essay in essays_to_process:
