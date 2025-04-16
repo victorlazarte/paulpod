@@ -169,11 +169,47 @@ def process_essay(essay_url, essay_title):
         return False
 
 if __name__ == "__main__":
-    # Process the next 3 essays
     essays_to_process = [
-        {"title": "Founder Mode", "url": "https://paulgraham.com/foundermode.html"},
-        {"title": "The Right Kind of Stubborn", "url": "https://paulgraham.com/stubborn.html"},
-        {"title": "The Reddits", "url": "https://paulgraham.com/reddits.html"}
+        {
+            "title": "Founder Mode",
+            "url": "https://paulgraham.com/foundermode.html"
+        },
+        {
+            "title": "The Right Kind of Stubborn",
+            "url": "https://paulgraham.com/stubborn.html"
+        },
+        {
+            "title": "How to Start Google",
+            "url": "https://paulgraham.com/google.html"
+        },
+        {
+            "title": "The Reddits",
+            "url": "https://paulgraham.com/reddits.html"
+        },
+        {
+            "title": "The Best Essay",
+            "url": "https://paulgraham.com/best.html"
+        },
+        {
+            "title": "How to Do Great Work",
+            "url": "https://paulgraham.com/greatwork.html"
+        },
+        {
+            "title": "Wealth",
+            "url": "https://paulgraham.com/wealth.html"
+        },
+        {
+            "title": "Superlinear Returns",
+            "url": "https://paulgraham.com/superlinear.html"
+        },
+        {
+            "title": "How to Get New Ideas",
+            "url": "https://paulgraham.com/getideas.html"
+        },
+        {
+            "title": "What You (Want to)* Want",
+            "url": "https://paulgraham.com/want.html"
+        }
     ]
     
     for essay in essays_to_process:
