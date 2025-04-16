@@ -155,6 +155,29 @@
         .audio-player {
             width: 100%;                 /* Full width */
             margin-top: 1rem;            /* Space above the player */
+            display: none;               /* Hidden by default */
+        }
+
+        /* Audio player visible state */
+        .audio-player.visible {
+            display: block;
+        }
+
+        /* Play button style */
+        .play-button {
+            display: inline-block;
+            padding: 8px 16px;
+            background: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            cursor: pointer;
+            border: none;
+            font-size: 14px;
+        }
+
+        .play-button:hover {
+            background: #0056b3;
         }
 
         /* Media query for responsive design on smaller screens */
@@ -196,7 +219,11 @@ before they learn not to ask big questions. I only came across it
                 <span>Characters: 8,787</span>
                 <span>Audio: 8:47</span>
             </div>
-            <a href="output/do.mp3" class="audio-link">Listen</a>
+            <button class="play-button" data-audio="output/do.mp3">Listen</button>
+            <audio class="audio-player" controls>
+                <source src="" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
         </div>
 
         <div class="essay-card">
@@ -589,5 +616,31 @@ was working on. This made me as happy as anything I've heard him
             <a href="output/own.mp3" class="audio-link">Listen</a>
         </div>
     </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const playButtons = document.querySelectorAll('.play-button');
+            const audioPlayers = document.querySelectorAll('.audio-player');
+            
+            playButtons.forEach(button => {
+                button.addEventListener('click', function() {
+                    const audioUrl = this.getAttribute('data-audio');
+                    const audioPlayer = this.nextElementSibling;
+                    
+                    // Hide all other audio players
+                    audioPlayers.forEach(player => {
+                        player.classList.remove('visible');
+                        player.pause();
+                    });
+                    
+                    // Show and play the selected audio
+                    audioPlayer.classList.add('visible');
+                    audioPlayer.querySelector('source').src = audioUrl;
+                    audioPlayer.load();
+                    audioPlayer.play();
+                });
+            });
+        });
+    </script>
 </body>
 </html> 
