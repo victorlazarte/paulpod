@@ -20,7 +20,7 @@
         <item>
             <title>What to Do</title>
             <link>https://paulgraham.com/do.html</link>
-            <description>The importance of action and execution.</description>
+            <description>1. The importance of taking action over just thinking about ideas. 2. How to identify what's worth doing by looking for things that seem both important and doable. 3. Why the best way to learn what to do is by doing things.</description>
             <pubDate>Fri, 01 Mar 2025 00:00:00 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/do.mp3" type="audio/mpeg" length="8787"/>
             <guid isPermaLink="false">paulgraham-do-20250301</guid>
@@ -31,7 +31,7 @@
         <item>
             <title>The Origins of Wokeness</title>
             <link>https://paulgraham.com/woke.html</link>
-            <description>An exploration of the concept of being 'woke'.</description>
+            <description>1. The historical roots of wokeness in Puritanism and its focus on moral purity. 2. How wokeness has evolved from a positive force for social justice to a form of moral authoritarianism. 3. The dangers of ideological purity and the importance of maintaining intellectual diversity.</description>
             <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/woke.mp3" type="audio/mpeg" length="45000"/>
             <guid isPermaLink="false">paulgraham-woke-20250101</guid>
@@ -42,7 +42,7 @@
         <item>
             <title>When To Do What You Love</title>
             <link>https://paulgraham.com/when.html</link>
-            <description>Understanding the importance of timing.</description>
+            <description>1. The importance of timing in pursuing your passions. 2. How to recognize when you're ready to make the leap into doing what you love. 3. Why waiting for the right moment can be more important than rushing into things.</description>
             <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/when.mp3" type="audio/mpeg" length="19000"/>
             <guid isPermaLink="false">paulgraham-when-20240901</guid>
@@ -53,7 +53,7 @@
         <item>
             <title>Writes and Write-Nots</title>
             <link>https://paulgraham.com/writes.html</link>
-            <description>The art and craft of writing.</description>
+            <description>1. The difference between good and bad writing habits. 2. How writing is a tool for thinking, not just communication. 3. Why the best writing often comes from rewriting and revision.</description>
             <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/writes.mp3" type="audio/mpeg" length="7000"/>
             <guid isPermaLink="false">paulgraham-writes-20241001</guid>
@@ -64,7 +64,7 @@
         <item>
             <title>Founder Mode</title>
             <link>https://paulgraham.com/founder-mode.html</link>
-            <description>The mindset and approach of successful founders.</description>
+            <description>1. The unique mindset required to be a successful founder. 2. How to maintain focus and momentum in the face of challenges. 3. Why the ability to make quick decisions is crucial for startup success.</description>
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/founder-mode.mp3" type="audio/mpeg" length="6000"/>
             <guid isPermaLink="false">paulgraham-founder-mode-20240801</guid>
@@ -75,7 +75,7 @@
         <item>
             <title>How to Start Google</title>
             <link>https://paulgraham.com/google.html</link>
-            <description>Insights into starting a successful company.</description>
+            <description>1. The importance of starting with a simple, focused idea. 2. How to identify and solve real problems that people care about. 3. Why the best startups often begin as solutions to the founders' own problems.</description>
             <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/how-to-start-google.mp3" type="audio/mpeg" length="13000"/>
             <guid isPermaLink="false">paulgraham-google-20240301</guid>
@@ -86,7 +86,7 @@
         <item>
             <title>The Reddits</title>
             <link>https://paulgraham.com/reddits.html</link>
-            <description>Observations about Reddit and online communities.</description>
+            <description>1. How online communities evolve and maintain their culture. 2. The importance of moderation and community guidelines. 3. Why successful online communities need both structure and freedom.</description>
             <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/the-reddits.mp3" type="audio/mpeg" length="5500"/>
             <guid isPermaLink="false">paulgraham-reddits-20240201</guid>
@@ -97,7 +97,7 @@
         <item>
             <title>The Best Essay</title>
             <link>https://paulgraham.com/best-essay.html</link>
-            <description>What makes an essay truly great.</description>
+            <description>1. What makes an essay truly great and memorable. 2. The importance of clarity and originality in writing. 3. How the best essays often challenge conventional wisdom.</description>
             <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/the-best-essay.mp3" type="audio/mpeg" length="21000"/>
             <guid isPermaLink="false">paulgraham-best-essay-20240101</guid>
@@ -108,7 +108,7 @@
         <item>
             <title>How to Do Great Work</title>
             <link>https://paulgraham.com/great-work.html</link>
-            <description>Principles for achieving excellence in your work.</description>
+            <description>1. The importance of working on things you're genuinely interested in. 2. How to maintain focus and avoid distractions. 3. Why persistence and iteration are key to achieving excellence.</description>
             <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/how-to-do-great-work.mp3" type="audio/mpeg" length="58000"/>
             <guid isPermaLink="false">paulgraham-great-work-20231201</guid>
@@ -119,7 +119,7 @@
         <item>
             <title>Superlinear Returns</title>
             <link>https://paulgraham.com/superlinear.html</link>
-            <description>Understanding non-linear growth and success.</description>
+            <description>1. How small differences in ability can lead to large differences in outcomes. 2. The importance of compounding effects in success. 3. Why focusing on your strengths can lead to exponential growth.</description>
             <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/superlinear-returns.mp3" type="audio/mpeg" length="22000"/>
             <guid isPermaLink="false">paulgraham-superlinear-20231101</guid>
@@ -130,7 +130,7 @@
         <item>
             <title>How to Get New Ideas</title>
             <link>https://paulgraham.com/new-ideas.html</link>
-            <description>Techniques for generating innovative ideas.</description>
+            <description>1. The importance of being curious and asking questions. 2. How to create an environment that fosters creativity. 3. Why the best ideas often come from combining existing concepts in new ways.</description>
             <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/how-to-get-new-ideas.mp3" type="audio/mpeg" length="746"/>
             <guid isPermaLink="false">paulgraham-new-ideas-20231001</guid>
@@ -141,7 +141,7 @@
         <item>
             <title>What You (Want To)* Want</title>
             <link>https://paulgraham.com/want.html</link>
-            <description>Understanding true desires and motivations.</description>
+            <description>1. The difference between what you think you want and what you actually want. 2. How to identify your true desires and motivations. 3. Why understanding your real wants is crucial for making good decisions.</description>
             <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/what-you-want-to-want.mp3" type="audio/mpeg" length="2400"/>
             <guid isPermaLink="false">paulgraham-want-20230901</guid>
