@@ -18,6 +18,28 @@
         <itunes:type>episodic</itunes:type>
 
         <item>
+            <title>The Shape of the Essay Field</title>
+            <link>https://paulgraham.com/shape.html</link>
+            <description>1. How the landscape of essay writing has evolved over time. 2. The importance of understanding the current state of the field. 3. Why recognizing patterns in essay structure helps both writers and readers.</description>
+            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/shape-of-essay-field.mp3" type="audio/mpeg" length="12000"/>
+            <guid isPermaLink="false">paulgraham-shape-20250401</guid>
+            <itunes:duration>6:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Good Writing</title>
+            <link>https://paulgraham.com/goodwriting.html</link>
+            <description>1. The fundamental principles that make writing effective and engaging. 2. How to develop a clear and compelling writing style. 3. Why good writing is essential for communicating complex ideas.</description>
+            <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/victorlazarte/paulpod/main/output/good-writing.mp3" type="audio/mpeg" length="15000"/>
+            <guid isPermaLink="false">paulgraham-goodwriting-20250301</guid>
+            <itunes:duration>7:30</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
             <title>What to Do</title>
             <link>https://paulgraham.com/do.html</link>
             <description>1. The importance of taking action over just thinking about ideas. 2. How to identify what's worth doing by looking for things that seem both important and doable. 3. Why the best way to learn what to do is by doing things.</description>
